@@ -1,0 +1,8 @@
+# store stuff that is sensitive and should not be committed to the repository
+secret
+
+# personal soul file — customize your own, use SOUL.example.md as a template
+SOUL.md
+
+# build output
+dist
